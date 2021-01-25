@@ -8,7 +8,7 @@ import datetime
 from youtube_search import YoutubeSearch
 from playsound import playsound
 
-TOKEN = 'NzY0MTI5NTQ0MzMyMzc4MTEy.X4BxGA.1iLEqI4OvmdP8dQe-TXJF_9U_Ew'
+TOKEN = 'puto el que lo lea'
 prefijo = '$'
 bot = commands.Bot(command_prefix='$', description="Este es el bot Bender te ayudara en lo que necesites")
     
